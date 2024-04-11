@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.SavedList {
+  background-color: rgb(204, 234, 245);
+  position: fixed;
+  right: 5%;
+  top: 10%;
+  border-radius: 10px;
+  padding: 1%;
 }

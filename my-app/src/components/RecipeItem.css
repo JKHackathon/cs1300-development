@@ -1,0 +1,7 @@
+.tag {
+  display: inline-block;
+  background-color: rgb(173, 223, 249);
+  padding: 2%;
+  border-radius: 15px;
+  /* margin: 0px; */
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Tteokbokki (Hot and Spicy Rice Cake)",
+    "source": "https://www.maangchi.com/recipe/tteokbokki",
+    "description": "Tteokbokki is chewy rice cakes cooked in a red, spicy broth. It’s a popular Korean street food.",
+    "type": "dinner",
+    "image": "/images/ddeokbokki_sizzlingpot-590x393.jpg",
+    "time": 45,
+    "rating": -1
+  },
+  {
+    "name": "Roasted Cauliflower and Garlic Soup",
+    "source": "https://cooking.nytimes.com/recipes/1025127-roasted-cauliflower-and-garlic-soup",
+    "description": "This three-ingredient vegan soup isn’t a trick: It’s as velvety and rich as its creamy, dairy-full counterparts, with a sweetness that lingers and warms. Coax deep, nutty flavors from cauliflower and a whole head of garlic by roasting them until caramelized.",
+    "type": "dinner",
+    "image": "/images/as-roasted-cauliflower-soup-bflj-master768.jpg",
+    "time": 70,
+    "rating": 4
+  },
+  {
+    "name": "Peanut Butter Noodles",
+    "source": "https://cooking.nytimes.com/recipes/1025047-peanut-butter-noodles",
+    "description": "This nutty midnight pasta is a dream to cook, as it requires just a handful of pantry staples and one pot. Peanut butter (the less fancy, the better) anchors a creamy sauce swathed in umami. Accentuated by a good, salty Parmesan, these noodles recall those cheesy peanut butter sandwich crackers. They make an ideal dinner for one, but the amounts can easily be doubled.",
+    "type": "dinner",
+    "image": "/images/25EATrex-peanut-butter-noodles-gljq-master768.jpg",
+    "time": 20,
+    "rating": 4
+  },
+  {
+    "name": "True Belgian Waffles",
+    "source": "https://www.tasteofhome.com/recipes/true-belgian-waffles/",
+    "description": "It was during a visit to my husband's relatives in Europe that I was given this Belgian waffle recipe. These homemade waffles are fantastic with any kind of topping: blueberries, strawberries, raspberries, fried apples, powdered sugar or whipped topping.",
+    "type": "breakfast",
+    "image": "",
+    "time": 30,
+    "rating": 4
+  },
+  {
+    "name": "Everyday Pancakes",
+    "source": "https://cooking.nytimes.com/recipes/1893-everyday-pancakes",
+    "description": "The basic pancake is made from a simple batter of eggs, flour, milk and baking powder for leavening. You can use different types of flour if you want to experiment with whole wheat or buckwheat. And you can also add fruit to the mixture. You might also enjoy this video of the recipe, which walks through a few variations.",
+    "type": "breakfast",
+    "image": "/images/24COOKING-CLASSICPANCAKES-master768.jpg",
+    "time": 20,
+    "rating": 4
+  },
+  {
+    "name": "Bánh Mì",
+    "source": "https://cooking.nytimes.com/recipes/1024575-banh-mi",
+    "description": "Bánh mì are, frankly, perfect sandwiches. From the baguettes (“bánh mì” literally translates to bread) to the fillings, they leave room for endless variation while remaining entirely distinct as a complete, complex Vietnamese dish. For this recipe, pork is the star: Following a brief marinade, the meat is broiled, then stuffed in a warm baguette alongside pickles, mayo, butter and a sprinkling of herbs.",
+    "type": "lunch",
+    "image": "/images/10mag-Eat-master768.jpg",
+    "time": 180,
+    "rating": 4
+  },
+  {
+    "name": "Best Gazpacho",
+    "source": "https://cooking.nytimes.com/recipes/1017577-best-gazpacho",
+    "description": "More of a drink than a soup, served in frosted glasses or chilled tumblers, gazpacho is perfect when it is too hot to eat but you need cold, salt and lunch all at the same time. Gazpacho is everywhere in Seville, Spain, where this recipe comes from, but it's not the watered-down salsa or grainy vegetable purée often served in the United States.",
+    "type": "lunch",
+    "image": "/images/merlin_187538190_4da0b476-ae61-4643-9397-dfe9b97374e7-master768.jpg",
+    "time": 20,
+    "rating": 5
+  },
+  {
+    "name": "Roasted Carrots and Chorizo",
+    "source": "https://cooking.nytimes.com/recipes/1024924-roasted-carrots-and-chorizo",
+    "description": "In this pretty, party-worthy side dish, coins of sweet carrots roast with coins of smoky chorizo. When the carrots are tender and the chorizo is crisp, you’ll squeeze some lemon over them, stirring the citrus and the chorizo drippings together for a makeshift sauce for the carrots. Serve this dish alongside white fish, turkey or brothy chickpeas; or tossed into a kale or grain salad.",
+    "type": "side",
+    "image": "/images/AS-roasted-carrots-and-chorizo-zblf-master768.jpg",
+    "time": 40,
+    "rating": 4
+  },
+  {
+    "name": "Sautéed Mushrooms",
+    "source": "https://cooking.nytimes.com/recipes/1024862-sauteed-mushrooms",
+    "description": "To create perfectly browned and crisp mushrooms, a combination of steaming and searing is helpful. First, steam the sliced mushrooms in a covered pot to forcefully remove their water and prevent them from soaking up fat. (Soggy and greasy mushrooms, begone.) Then, add the butter and let the mushrooms sear, stirring only occasionally, until crusty.",
+    "type": "side",
+    "image": "/images/AS-Sauteed-Mushrooms-mwgj-master768.jpg",
+    "time": 30,
+    "rating": 4
+  },
+  {
+    "name": "Kimchijeon (Kimchi Pancake)",
+    "source": "https://www.maangchi.com/recipe/kimchijeon",
+    "description": "A kimchi pancake is one of the easiest and quickest things to make and is one of Koreans’ all time favorite dishes. It’s hot, spicy, crispy, a little sweet, sour, and a little salty. It is not only a great snack but also it goes well with rice as a side dish, and is great in lunchboxes in place of plain kimchi.",
+    "type": "side",
+    "image": "/images/kimchipancake-620x349.jpg",
+    "time": 20,
+    "rating": -1
+  },
+  {
+    "name": "Kimchi-Bokkeumbap (Kimchi Fried Rice)",
+    "source": "https://www.maangchi.com/recipe/kimchi-bokkeumbap",
+    "description": "This simple, simple dish is super, super tasty. It’s just a few ingredients, but it’s a dish much loved by Koreans and a staple of our everyday lives.",
+    "type": "dinner",
+    "image": "/images/maxresdefault.jpg",
+    "time": 15,
+    "rating": -1
+  },
+  {
+    "name": "Air-Fryer Grilled Cheese",
+    "source": "https://cooking.nytimes.com/recipes/1023974-air-fryer-grilled-cheese",
+    "description": "This easy air-fryer grilled cheese recipe yields an evenly toasted exterior, crisped frico edges and a perfectly melted middle — in record time. As Julia Moskin points out in her stovetop recipe, some patience and attention are required to ensure that the outside doesn’t burn before the cheese melts. But the air fryer’s convection heat results in the ideal grilled cheese with minimum effort.",
+    "type": "lunch",
+    "image": "/images/ep-air-fryer-grilled-cheese-vpmf-articleLarge.jpg",
+    "time": 10,
+    "rating": 4
+  }
+]
